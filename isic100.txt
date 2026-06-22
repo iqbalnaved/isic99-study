@@ -1,0 +1,30 @@
+python isic100.py --model gpt-4.1-2025-04-14 --run 1 --shot 0
+python isic100.py --model gpt-4.1-2025-04-14 --run 2 --shot 0
+python isic100.py --model gpt-4.1-2025-04-14 --run 3 --shot 0
+
+python isic100.py --model gpt-4.1-2025-04-14 --run 1 --shot 1
+python isic100.py --model gpt-4.1-2025-04-14 --run 2 --shot 1
+python isic100.py --model gpt-4.1-2025-04-14 --run 3 --shot 1
+
+python isic100.py --model gpt-4.1-2025-04-14 --run 1 --shot 3
+python isic100.py --model gpt-4.1-2025-04-14 --run 2 --shot 3
+python isic100.py --model gpt-4.1-2025-04-14 --run 3 --shot 3
+
+python isic100.py --model gpt-4.1-2025-04-14 --run 1 --shot 5
+python isic100.py --model gpt-4.1-2025-04-14 --run 2 --shot 5
+python isic100.py --model gpt-4.1-2025-04-14 --run 3 --shot 5
+
+python isic100.py --model gpt-4.1-2025-04-14 --run 1 --shot 7
+python isic100.py --model gpt-4.1-2025-04-14 --run 2 --shot 7
+python isic100.py --model gpt-4.1-2025-04-14 --run 3 --shot 7
+
+python isic100.py --model gpt-4.1-2025-04-14 --run 1 --shot 48
+python isic100.py --model gpt-4.1-2025-04-14 --run 2 --shot 48
+python isic100.py --model gpt-4.1-2025-04-14 --run 3 --shot 48
+
+
+
+
+
+
+
